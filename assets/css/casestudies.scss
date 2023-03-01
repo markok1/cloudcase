@@ -222,6 +222,7 @@ body {
           h1 {
             padding-top: 50px;
             padding-bottom: 50px;
+            color: #227c9d;
           }
         }
       }
@@ -281,6 +282,7 @@ body {
           h1 {
             padding-top: 40px;
             text-align: left;
+            color: #227c9d;
           }
           p {
             font-size: 20px;
@@ -340,6 +342,7 @@ body {
           div {
             h2 {
               margin-bottom: 30px;
+              color: #227c9d;
             }
             h5 {
               margin-bottom: 35px;
@@ -353,10 +356,449 @@ body {
 .spaceout {
   margin: 60px 0px;
 }
+
+.hero2 {
+  .container {
+    .row {
+      .col-lg-12 {
+        div {
+          h1 {
+            padding-top: 50px;
+            padding-bottom: 20px;
+            color: #227c9d;
+          }
+          p {
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+  }
+}
+.challenge2 {
+  .container {
+    .row {
+      .col-lg-6 {
+        div {
+          img {
+            border-radius: 20px;
+            box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+          }
+        }
+      }
+      .col-lg-12 {
+        h2 {
+          padding-top: 0px;
+        }
+        p {
+          font-size: 20px;
+          line-height: 25px;
+        }
+      }
+    }
+  }
+}
+
+.solution2 {
+  margin-bottom: 200px;
+  .container {
+    .row {
+      .col-lg-12 {
+        h2 {
+          padding-top: 40px;
+          text-align: left;
+          color: #227c9d;
+        }
+        p {
+          font-size: 20px;
+          line-height: 25px;
+          span {
+            color: #227c9d;
+          }
+        }
+      }
+      .col-lg-3:nth-child(2) {
+        border-top: 2px solid #227c9d;
+        .numberCard {
+          h5 {
+            color: #227c9d;
+            margin: auto;
+            margin-top: -25px;
+            z-index: 22;
+            overflow: hidden;
+            background-color: #fff;
+            border: 2px solid #227c9d;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            padding: 14px 19px;
+            transition: all 0.25s ease-in;
+            margin-bottom: 30px;
+          }
+          h4 {
+            color: #227c9d;
+          }
+          p {
+            margin-bottom: 40px;
+          }
+        }
+        &:hover {
+          .numberCard {
+            h5 {
+              background-color: #227c9d;
+              color: #fff;
+            }
+          }
+        }
+      }
+      .col-lg-3:nth-child(3) {
+        border-top: 2px solid #227c9d;
+        .numberCard {
+          h5 {
+            color: #227c9d;
+            margin: auto;
+            margin-top: -25px;
+            z-index: 22;
+            overflow: hidden;
+            background-color: #fff;
+            border: 2px solid #227c9d;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            padding: 14px 17px;
+            transition: all 0.25s ease-in;
+            margin-bottom: 30px;
+          }
+          h4 {
+            color: #227c9d;
+          }
+          p {
+            margin-bottom: 40px;
+          }
+        }
+        &:hover {
+          .numberCard {
+            h5 {
+              background-color: #227c9d;
+              color: #fff;
+            }
+          }
+        }
+      }
+      .col-lg-3:nth-child(4) {
+        border-top: 2px solid #227c9d;
+        .numberCard {
+          h5 {
+            color: #227c9d;
+            margin: auto;
+            margin-top: -25px;
+            z-index: 22;
+            overflow: hidden;
+            background-color: #fff;
+            border: 2px solid #227c9d;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            padding: 14px 16px;
+            transition: all 0.25s ease-in;
+            margin-bottom: 30px;
+          }
+          h4 {
+            color: #227c9d;
+          }
+          p {
+            margin-bottom: 40px;
+          }
+        }
+        &:hover {
+          .numberCard {
+            h5 {
+              background-color: #227c9d;
+              color: #fff;
+            }
+          }
+        }
+      }
+      .col-lg-3:nth-child(5) {
+        border-top: 2px solid #227c9d;
+        .numberCard {
+          h5 {
+            color: #227c9d;
+            margin: auto;
+            margin-top: -25px;
+            z-index: 22;
+            overflow: hidden;
+            background-color: #fff;
+            border: 2px solid #227c9d;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            padding: 14px 16px;
+            transition: all 0.25s ease-in;
+            margin-bottom: 30px;
+          }
+          h4 {
+            color: #227c9d;
+          }
+          p {
+            margin-bottom: 40px;
+          }
+        }
+        &:hover {
+          .numberCard {
+            h5 {
+              background-color: #227c9d;
+              color: #fff;
+            }
+          }
+        }
+      }
+      .col-lg-6 {
+        div {
+          img {
+            border-radius: 20px;
+            box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            margin-bottom: 30px;
+          }
+        }
+      }
+    }
+  }
+}
+.implementation2 {
+  .container {
+    .row {
+      .col-lg-12 {
+        div {
+          h2 {
+            margin-bottom: 45px;
+          }
+          h5 {
+            margin-bottom: 35px;
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+    .cybersecurity-about-box {
+      .row {
+        .col-lg-6 {
+          div {
+            img {
+              border-radius: 20px;
+              box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              margin-bottom: 20px;
+            }
+          }
+          .faq-wrapper {
+            padding-top: 40px;
+          }
+        }
+      }
+    }
+  }
+}
+.results2 {
+  div {
+    .container {
+      .row {
+        .col-lg-12 {
+          div {
+            h2 {
+              margin-top: 80px;
+              margin-bottom: 30px;
+              color: #227c9d;
+            }
+            h5 {
+              margin-bottom: 135px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+.hero3 {
+  padding-top: 30px;
+  background-image: url("../images/casestudy3/Tech-Retail1.webp"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 900px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  .container {
+    .row {
+      .col-lg-12 {
+        div {
+          h1 {
+            margin-top: 200px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            background-color: #227c9d;
+            color: #fff;
+            border-radius: 50px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.underhero {
+  .container {
+    .row {
+      .col-lg-12 {
+        div {
+          h2 {
+            margin-top: 40px;
+            color: #227c9d;
+          }
+          p {
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+  }
+}
+.challenge3 {
+  .container {
+    .row {
+      .col-lg-6 {
+        div {
+          img {
+            border-radius: 20px;
+            box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+            -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+          }
+          h2 {
+            margin-top: 40px;
+            margin-bottom: 30px;
+          }
+          p {
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+  }
+}
+.textBox {
+  transition: all 0.25s ease-in;
+  overflow: hidden;
+  max-width: 400px;
+  margin: 0px auto;
+  border: 3px solid #227c9d;
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+  -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+  -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+  p {
+    text-align: justify;
+  }
+  &:hover {
+    transform: translateY(-20px);
+  }
+}
+.solution3 {
+  margin-bottom: 200px;
+  .container {
+    .row {
+      .col-lg-12 {
+        h2 {
+          color: #227c9d;
+        }
+      }
+    }
+  }
+}
+.implementation3 {
+  .container {
+    .row {
+      .col-lg-12 {
+        div {
+          h2 {
+            margin-bottom: 45px;
+          }
+          h5 {
+            margin-bottom: 35px;
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+    .cybersecurity-about-box {
+      .row {
+        .col-lg-6 {
+          div {
+            img {
+              border-radius: 20px;
+              box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+              margin-bottom: 20px;
+              margin-top: 20px;
+            }
+          }
+          p {
+            font-size: 20px;
+            line-height: 25px;
+          }
+        }
+        .col-lg-12 {
+          div {
+            p {
+              font-size: 20px;
+              line-height: 25px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+.results3 {
+  div {
+    .container {
+      .row {
+        .col-lg-12 {
+          div {
+            h2 {
+              margin-top: 80px;
+              margin-bottom: 30px;
+              color: #227c9d;
+            }
+            h5 {
+              margin-bottom: 135px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 @media screen and (max-width: 1200px) {
   .faq-wrapper {
     padding-top: 0px !important;
     margin-bottom: 30px;
+  }
+  .implementation3 .container .cybersecurity-about-box .row .col-lg-6 div img {
+    margin-bottom: 00px;
+    margin-top: 80px;
   }
 }
 
@@ -398,6 +840,19 @@ body {
   }
   .card {
     margin: 0px auto;
+  }
+  .implementation3 .container .cybersecurity-about-box .row .col-lg-6 div img {
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+  .textBox {
+    margin-bottom: 50px;
+  }
+  .hero3 .container .row .col-lg-12 div h1 {
+    margin: 0px auto;
+    margin-top: 200px;
+    font-size: 20px;
+    max-width: 400px;
   }
 }
 
@@ -450,5 +905,116 @@ body {
         }
       }
     }
+  }
+  .hero3 .container .row .col-lg-12 div h1 {
+    margin: 0px auto;
+    margin-top: 200px;
+    font-size: 20px;
+    max-width: 300px;
+  }
+  .hero3 {
+    background-position-x: 30%;
+  }
+  .underhero .container .row .col-lg-12 div h2 {
+    font-size: 25px;
+  }
+  .underhero .container .row .col-lg-12 div p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .challenge3 .container .row .col-lg-6 div h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .challenge3 .container .row .col-lg-6 div p {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .implementation3 .container .row .col-lg-12 div h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .implementation3 .container .cybersecurity-about-box .row .col-lg-6 p {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .implementation3 .container .cybersecurity-about-box .row .col-lg-12 div p {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .results3 div .container .row .col-lg-12 div h2 {
+    margin-top: 40px;
+    font-size: 25px;
+  }
+  .results3 div .container .row .col-lg-12 div h5 {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 80px;
+  }
+
+  .hero2 .container .row .col-lg-12 div h1 {
+    padding-top: 50px;
+    padding-bottom: 0px;
+    color: #227c9d;
+    font-size: 25px;
+  }
+  .hero2 .container .row .col-lg-12 div p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .challenge2 .container .row .col-lg-12 h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .challenge2 .container .row .col-lg-12 p {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .solution2 .container .row .col-lg-12 h2 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .solution2 .container .row .col-lg-12 p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .numberCard {
+    h4 {
+      font-size: 20px;
+      text-align: center;
+    }
+    p {
+      font-size: 16px;
+      line-height: 20px;
+      text-align: center;
+    }
+  }
+  .implementation2 .container .row .col-lg-12 div h2 {
+    margin-bottom: 35px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .implementation2 .container .row .col-lg-12 div h5 {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center !important;
+  }
+  .results2 div .container .row .col-lg-12 div h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .results2 div .container .row .col-lg-12 div h5 {
+    margin-bottom: 50px;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
   }
 }

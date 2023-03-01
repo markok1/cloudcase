@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.cloudroi.com/</loc>
+  <lastmod>2020-07-12T21:31:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/careers.html</loc>
+  <lastmod>2020-07-12T21:31:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/index.html</loc>
+  <lastmod>2020-07-12T21:31:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/privacyandterms.html</loc>
+  <lastmod>2020-06-13T20:07:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/files/BDR10046.pdf</loc>
+  <lastmod>2020-07-11T17:19:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/files/SSD10052.pdf</loc>
+  <lastmod>2020-07-11T17:19:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.cloudroi.com/files/SD10078.pdf</loc>
+  <lastmod>2020-07-11T17:19:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -197,6 +197,11 @@ body {
 .card-body {
   padding: 0.25rem !important;
 }
+.card-body p {
+  text-align: center;
+  font-size: 16px !important;
+  line-height: 23px !important;
+}
 
 .card-header:first-child {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0px 0px;
@@ -232,6 +237,7 @@ body {
   padding-top: 40px;
   font-size: 20px;
   line-height: 25px;
+  text-align: left;
 }
 
 .challenge .container .row .col-lg-6 div h2 {
@@ -240,6 +246,7 @@ body {
 .challenge .container .row .col-lg-6 div p {
   font-size: 20px;
   line-height: 25px;
+  text-align: left;
 }
 .challenge .container .row .col-lg-6 div img {
   border-radius: 20px;
@@ -263,6 +270,7 @@ body {
 .solution .container .row .col-lg-6 div p {
   font-size: 20px;
   line-height: 25px;
+  text-align: left;
 }
 
 .implementation .container .row .col-lg-12 div h2 {
@@ -535,9 +543,10 @@ body {
   box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
   -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
   -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+  min-height: 345px;
 }
 .textBox p {
-  text-align: justify;
+  text-align: center;
 }
 .textBox:hover {
   transform: translateY(-20px);

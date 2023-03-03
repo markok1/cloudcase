@@ -200,6 +200,11 @@ body {
 }
 .card-body {
   padding: 0.25rem !important;
+  p {
+    text-align: center;
+    font-size: 16px !important;
+    line-height: 23px !important;
+  }
 }
 .card-header:first-child {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0px 0px;
@@ -238,6 +243,7 @@ body {
             padding-top: 40px;
             font-size: 20px;
             line-height: 25px;
+            text-align: left;
           }
         }
       }
@@ -255,6 +261,7 @@ body {
           p {
             font-size: 20px;
             line-height: 25px;
+            text-align: left;
           }
           img {
             border-radius: 20px;
@@ -287,6 +294,7 @@ body {
           p {
             font-size: 20px;
             line-height: 25px;
+            text-align: left;
           }
         }
       }
@@ -705,8 +713,9 @@ body {
   box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
   -webkit-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
   -moz-box-shadow: 1px 4px 15px 4px rgba(0, 0, 0, 0.79);
+  min-height: 345px;
   p {
-    text-align: justify;
+    text-align: center;
   }
   &:hover {
     transform: translateY(-20px);
